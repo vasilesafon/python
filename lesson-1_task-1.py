@@ -1,0 +1,10 @@
+print('Hello')
+one = input('Введите число: ')
+two = input('Еще число: ')
+three = input('И еще: ')
+
+print()
+print(f'ваше первое число {one}, второе {two}, третье {three}.')
+print()
+four = input('Ну а как ваши дела? ')
+print(f'У нас тоже {four}...')
